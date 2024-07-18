@@ -13,5 +13,7 @@ namespace AsyncAwaitDemo
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
         }
+
+        // Hello TrueCoders!
     }
 }
